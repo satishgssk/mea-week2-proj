@@ -1,0 +1,10 @@
+documentation/
+kubernetes/
+
+.gitignore
+.dockerignore
+
+Dockerfile
+Jenkinsfile
+LICENSE
+*.md
